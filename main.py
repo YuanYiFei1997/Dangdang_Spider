@@ -1,6 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
-import bs4
+from lxml import etree
+#from bs4 import BeautifulSoup
+#import bs4
 # def getHtmlText(url):
 #     try:
 #         r=requests.get(url)
@@ -16,10 +17,19 @@ import bs4
 #             ths=th('Strong')
 #             MonthList.append([ths[0].string,ths[1].string,ths[2].string]) 
 def main():
-    url='http://data.stats.gov.cn/easyquery.htm?cn=E0104'
+    url='http://www.zuihaodaxue.cn/zuihaodaxuepaiming2016.html'
     req=requests.get(url)
+    req.encoding="UTF-8"
     r=req.text
-    soup=BeautifulSoup(r,"html.parser")
-    print(soup.find_all("div"))
+    tree=etree.HTML(r)
+    nodes=tree.xpath("//tbody[@class='hidden_zhpm']/tr[@class='alt']/td/text()")
+    i=0
+    for node in nodes:
+        print(node)
+        i=i+1
+        while(i>=10):
+            print("\n")
+            i=0
+    #print(nodes)
     #print(r)
 main()
