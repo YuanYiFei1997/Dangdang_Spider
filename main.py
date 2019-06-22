@@ -1,35 +1,35 @@
 import requests
 from lxml import etree
-#from bs4 import BeautifulSoup
-#import bs4
-# def getHtmlText(url):
-#     try:
-#         r=requests.get(url)
-#         r.raise_for_status()
-#         r.encoding=r.apparent_encoding
-#         return r.text
-#     except:
-#         return "ERROR"
-# def getMonthData(MonthList,html):
-#     soup=BeautifulSoup(html,"html.parser")
-#     for th in soup.find("th class").children:
-#         if isinstance(th,bs4.element.Tag):
-#             ths=th('Strong')
-#             MonthList.append([ths[0].string,ths[1].string,ths[2].string]) 
+import pymysql
+import re
+def connect_DB():
+    return pymysql.connect(
+        host='127.0.0.1',
+        port=3306,
+        user='root',
+        password='',
+        database='db_spider'
+    )
+
+def getHtmlText(url, key , pageNum):
+    # kv = {"key": key}
+    newurl=url+'key='+key+'&category_path=01.00.00.00.00.00&ddsale=1'+'&page_index='+str(pageNum)
+    try:
+        r = requests.get(newurl)
+        r.encoding = r.apparent_encoding
+        return r.text
+    except:
+        return "ERROR"
 def main():
-    url='http://www.zuihaodaxue.cn/zuihaodaxuepaiming2016.html'
-    req=requests.get(url)
-    req.encoding="UTF-8"
-    r=req.text
-    tree=etree.HTML(r)
-    nodes=tree.xpath("//tbody[@class='hidden_zhpm']/tr[@class='alt']/td/text()")
-    i=0
-    for node in nodes:
-        print(node)
-        i=i+1
-        while(i>=10):
-            print("\n")
-            i=0
-    #print(nodes)
-    #print(r)
+    url = 'http://search.dangdang.com/?'
+    key = "python"
+    pageNum=10
+    for i in range(10):
+        html=getHtmlText(url,key,i)
+        tree = etree.HTML(html)
+        bookname = tree.xpath('//ul[@class="bigimg"]/li[starts-with(@class,"line")]/a/@title')
+        nowprice=tree.xpath('//ul[@class="bigimg"]/li[starts-with(@class,"line")]/p[@class="price"]/span[@class="search_now_price"]/text()')
+        preprice=tree.xpath('//ul[@class="bigimg"]/li[starts-with(@class,"line")]/p[@class="price"]/span[@class="search_pre_price"]/text()')
+        pubHouseName=tree.xpath('//ul[@class="bigimg"]/li[starts-with(@class,"line")]/p[@class="search_book_author"]/span/a[@name="P_cbs"]/text()')
+
 main()
