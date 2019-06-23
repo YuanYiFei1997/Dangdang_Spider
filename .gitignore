@@ -1,2 +1,5 @@
 .vscode/settings.json
 __pycache__/saveCSV.cpython-37.pyc
+__pycache__/drawPie.cpython-37.pyc
+__pycache__/bs4demo.cpython-37.pyc
+__pycache__/drawBar.cpython-37.pyc
