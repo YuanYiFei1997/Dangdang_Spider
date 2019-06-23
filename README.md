@@ -1,0 +1,3 @@
+# Python_Spider
+使用BeautifulSoup4、Pandas、Matplolib等库实现对当当商品信息的抓取
+Xpathdemo中是lxml方法对当当的信息抓取
