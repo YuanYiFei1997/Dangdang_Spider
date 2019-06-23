@@ -3,7 +3,6 @@ import re
 from bs4 import BeautifulSoup
 import pandas
 from lxml import etree
-from time import sleep
 from saveCSV import saveAsCSV
 now_price = []
 bookname = []
