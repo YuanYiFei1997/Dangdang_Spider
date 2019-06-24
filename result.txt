@@ -1,0 +1,62 @@
+0/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 编程/n  /x 从/p 入门/ns 到/v 实践/v 
+/x 1/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 学习/v 手册/n （/x 原书/n 第/m 5/m 版/n ）/x 
+/x 2/x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 编程/n 快速/d 上/f 手/n  /x 让/v 繁琐/a 工作/vn 自动化/l （/x Python3/eng 编程/n 从/p 入门/ns 到/v 实践/v  /x 新手/n 学习/v 必备/v 用书/n ）/x 
+/x 3/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 利用/n Python/eng 进行/v 数据分析/l （/x 原书/n 第/m 2/m 版/n ）/x 
+/x 4/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 核心/n 编程/n  /x 第/m 3/m 版/n 
+/x 5/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 疯狂/a Python/eng 讲义/n 
+/x 6/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 从小/d 白/a 到/v 大/a 牛/n 
+/x 7/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 从/p 菜鸟/n 到/v 高手/n 
+/x 8/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng  /x Cookbook/eng （/x 第/m 3/m 版/n ）/x 中文版/nz 
+/x 9/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 基础教程/n （/x 第/m 3/m 版/n ）/x 
+/x 10/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng  /x 3/x 网络/n 爬虫/n 开发/v 实战/v 
+/x 11/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng  /x 3/x 标准/n 库/n 
+/x 12/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 神经网络/n 编程/n 
+/x 13/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 笨办法/n 学/n Python/eng  /x 3/x 
+/x 14/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 物/zg 联网/nz 应用/v 设计/vn 与/p 实战/v ：/x 基于/p AVR/eng 单片机/n 和/c Python/eng 
+/x 15/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 数据分析/l 与/p 挖掘/v 实战/v 
+/x 16/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 量化/v 交易/n 
+/x 17/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 从/p 入门/ns 到/v 精通/a 
+/x 18/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 编程/n （/x 第四版/nz ）/x 
+/x 19/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 金融/n 大/a 数据分析/l 
+/x 20/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 实战/v Python/eng 网络/n 爬虫/n 
+/x 21/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 零/m 基础/n 入门/ns 学习/v Python/eng （/x 第/m 2/m 版/n ）/x -/x 微课/n 视频/n 版/n 
+/x 22/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 深入/v 理解/v Python/eng 特性/n 
+/x 23/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 对比/v Excel/eng ，/x 轻松/a 学习/v Python/eng 数据分析/l 
+/x 24/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 编程/n 从/p 入门/ns 到/v 精通/a  /x 项目/n 开发/v 视频/n 学习/v 版/n 
+/x 25/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 精通/a Python/eng 爬虫/n 框架/n Scrapy/eng 
+/x 26/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 深度/ns 学习/v 
+/x 27/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 编程/n 从/p 零/m 基础/n 到/v 项目/n 实战/v （/x 微课/n 视频/n 版/n ）/x 
+/x 28/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 科学计算/n (/x 第/m 2/m 版/n )/x 
+/x 29/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 自然语言/l 处理/v 
+/x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x .../m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 
+/x 510/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Hadoop/eng 数据分析/l 
+/x 511/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x NLTK/eng 基础教程/n  /x 用/p NLTK/eng 和/c Python/eng 库/nr 构建/v 机器/n 学习/v 应用/v 
+/x 512/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 高等院校/l 计算机教育/l “/x 十三/m 五/m ”/x 应用型/n 规划/n 教材/n ：/x Python/eng 程序设计/n 应用/v 教程/n 
+/x 513/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 爱/v 上/f Raspberry/eng  /x Pi/eng  /x 第/m 2/m 版/n  /x 树莓/n 派/v 编程/n 快速/d 入门/ns 手册/n 
+/x 514/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 数据分析/l 技术/n -/x -/x Python/eng 数据分析/l 项目/n 化/n 教程/n 
+/x 515/m  /x  /x  /x  /x  /x Greedy/eng  /x Python/eng  /x (/x Ready/eng  /x to/eng  /x Read/eng ,/x  /x Level/eng  /x 1/x )/x  /x (/x by/eng  /x Er/eng .../m 
+/x 516/m  /x  /x  /x  /x  /x  /x  /x  /x  /x 一站式/b 学/n Python/eng 从/p 入门/ns 到/v 精通/a （/x 跟/p 老/a 齐学/nr Python/eng  /x 基于/p Python/eng  /x 3/x  /x 当/p 当/t 独家/n ）/x 
+/x 517/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Python/eng  /x for/eng  /x Kids/eng :/x  /x A/x  /x Playful/eng  /x Introduction/eng  /x t/eng .../m 
+/x 518/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Pro/eng  /x Python/eng 
+/x 519/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x The/eng  /x Python/eng  /x Standard/eng  /x Library/eng  /x by/eng  /x Example/eng 
+/x 520/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Python/eng  /x on/eng  /x Panola/eng 
+/x 521/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Python/eng :/x  /x The/eng  /x Ultimate/eng  /x Beginners/eng  /x Guide/eng :/x  /x Sta/eng .../m 
+/x 522/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 深海/ns 管道/n 试验/vn 的/uj 数值/n 模拟/v 理论/n 及/c 应用/v ABAQUS/eng 参数/n 化/n 设计/vn 中/f 的/uj Python/eng 脚本/n 
+/x 523/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 编程/n 导论/n 
+/x 524/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 21/m 天学通/nz Python/eng 
+/x 525/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 数据/n 馆员/n 的/uj Python/eng 简明/a 手册/n 
+/x 526/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 算法/n 与/p 程序设计/n 基础/n  /x Python/eng 版/n  /x 21/m 世纪/n 高等学校/l 计算机/n 基础/n 实用/v 规划/n 教材/n 
+/x 527/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x TensorFlow/eng ：/x 实战/v Google/eng 深度/ns 学习/v 框架/n （/x 第/m 2/m 版/n ）/x 
+/x 528/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Core/eng  /x Python/eng  /x Applications/eng  /x Complete/eng  /x Self/eng -/x As/eng .../m 
+/x 529/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Monty/eng  /x Python/eng '/x s/x  /x Book/eng  /x of/eng  /x Silly/eng  /x Walks/eng 
+/x 530/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 知识/v 网络/n 与/p 合作/vn 网络/n 的/uj 关系/n ―/x ―/x 基于/p Python/eng 编程/n 
+/x 531/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Learning/eng  /x Python/eng :/x  /x Powerful/eng  /x Object/eng -/x Oriented/eng .../m 
+/x 532/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Fluent/eng  /x Python/eng :/x  /x Clear/eng ,/x  /x Concise/eng ,/x  /x and/eng  /x Effect/eng .../m 
+/x 533/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Dive/eng  /x Into/eng  /x Python/eng  /x 3/x 
+/x 534/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Effective/eng  /x Python/eng :/x  /x 59/m  /x Specific/eng  /x Ways/eng  /x to/eng  /x Wri/eng .../m 
+/x 535/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Learn/eng  /x More/eng  /x Python/eng  /x 3/x  /x the/eng  /x Hard/eng  /x Way/eng :/x  /x The/eng  /x Nex/eng .../m 
+/x 536/m  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Head/eng  /x First/eng  /x Python/eng :/x  /x A/x  /x Brain/eng -/x Friendly/eng  /x Guide/eng 
+/x 537/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x I/x '/x m/x  /x a/x  /x Python/eng  /x Programmer/eng 
+/x 538/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Beginning/eng  /x Python/eng :/x  /x From/eng  /x Novice/eng  /x to/eng  /x Professi/eng .../m 
+/x 539/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Dive/eng  /x Into/eng  /x Python/eng 
+/x Name/eng :/x  /x 书籍/n 名称/n ,/x  /x Length/eng :/x  /x 540/m ,/x  /x dtype/eng :/x  /x object/eng 
