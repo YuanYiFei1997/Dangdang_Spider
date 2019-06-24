@@ -1,0 +1,62 @@
+0                                        Python编程 从入门到实践
+1                                      Python学习手册（原书第5版）
+2        Python编程快速上手 让繁琐工作自动化（Python3编程从入门到实践 新手学习必备用书）
+3                                  利用Python进行数据分析（原书第2版）
+4                                         Python核心编程 第3版
+5                                             疯狂Python讲义
+6                                           Python从小白到大牛
+7                                           Python从菜鸟到高手
+8                                Python Cookbook（第3版）中文版
+9                                        Python基础教程（第3版）
+10                                      Python 3网络爬虫开发实战
+11                                           Python 3标准库
+12                                          Python神经网络编程
+13                                          笨办法学Python 3
+14                            物联网应用设计与实战：基于AVR单片机和Python
+15                                       Python数据分析与挖掘实战
+16                                            Python量化交易
+17                                          Python从入门到精通
+18                                         Python编程（第四版）
+19                                         Python金融大数据分析
+20                                          实战Python网络爬虫
+21                              零基础入门学习Python（第2版）-微课视频版
+22                                          深入理解Python特性
+23                                对比Excel，轻松学习Python数据分析
+24                              Python编程从入门到精通 项目开发视频学习版
+25                                    精通Python爬虫框架Scrapy
+26                                            Python深度学习
+27                              Python编程从零基础到项目实战（微课视频版）
+28                                       Python科学计算(第2版)
+29                                          Python自然语言处理
+                             ...                        
+510                                           Hadoop数据分析
+511                       NLTK基础教程 用NLTK和Python库构建机器学习应用
+512                 高等院校计算机教育“十三五”应用型规划教材：Python程序设计应用教程
+513                       爱上Raspberry Pi 第2版 树莓派编程快速入门手册
+514                              数据分析技术--Python数据分析项目化教程
+515     Greedy Python (Ready to Read, Level 1) (by Er...
+516         一站式学Python从入门到精通（跟老齐学Python 基于Python 3 当当独家）
+517     【预订】Python for Kids: A Playful Introduction t...
+518                                       【预订】Pro Python
+519           【预订】The Python Standard Library by Example
+520                                 【预订】Python on Panola
+521     【预订】Python: The Ultimate Beginners Guide: Sta...
+522                深海管道试验的数值模拟理论及应用ABAQUS参数化设计中的Python脚本
+523                                                 编程导论
+524                                          21天学通Python
+525                                      数据馆员的Python简明手册
+526                算法与程序设计基础 Python版 21世纪高等学校计算机基础实用规划教材
+527                       TensorFlow：实战Google深度学习框架（第2版）
+528     【预订】Core Python Applications Complete Self-As...
+529               【预订】Monty Python's Book of Silly Walks
+530                             知识网络与合作网络的关系――基于Python编程
+531     【预订】Learning Python: Powerful Object-Oriented...
+532     【预订】Fluent Python: Clear, Concise, and Effect...
+533                               【预订】Dive Into Python 3
+534     【预订】Effective Python: 59 Specific Ways to Wri...
+535     【预订】Learn More Python 3 the Hard Way: The Nex...
+536        【预订】Head First Python: A Brain-Friendly Guide
+537                          【预订】I'm a Python Programmer
+538     【预订】Beginning Python: From Novice to Professi...
+539                                 【预订】Dive Into Python
+Name: 书籍名称, Length: 540, dtype: object
