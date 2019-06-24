@@ -29,14 +29,14 @@
 28                                       Python科学计算(第2版)
 29                                          Python自然语言处理
                              ...                        
-510                                           Hadoop数据分析
-511                       NLTK基础教程 用NLTK和Python库构建机器学习应用
-512                 高等院校计算机教育“十三五”应用型规划教材：Python程序设计应用教程
-513                       爱上Raspberry Pi 第2版 树莓派编程快速入门手册
-514                              数据分析技术--Python数据分析项目化教程
-515     Greedy Python (Ready to Read, Level 1) (by Er...
-516         一站式学Python从入门到精通（跟老齐学Python 基于Python 3 当当独家）
-517     【预订】Python for Kids: A Playful Introduction t...
+510      【预订】A Python Primer for Arcgis(r): Workbook III
+511                                           Hadoop数据分析
+512                       NLTK基础教程 用NLTK和Python库构建机器学习应用
+513                 高等院校计算机教育“十三五”应用型规划教材：Python程序设计应用教程
+514                       爱上Raspberry Pi 第2版 树莓派编程快速入门手册
+515                              数据分析技术--Python数据分析项目化教程
+516     Greedy Python (Ready to Read, Level 1) (by Er...
+517         一站式学Python从入门到精通（跟老齐学Python 基于Python 3 当当独家）
 518                                       【预订】Pro Python
 519           【预订】The Python Standard Library by Example
 520                                 【预订】Python on Panola
@@ -54,9 +54,9 @@
 532     【预订】Fluent Python: Clear, Concise, and Effect...
 533                               【预订】Dive Into Python 3
 534     【预订】Effective Python: 59 Specific Ways to Wri...
-535     【预订】Learn More Python 3 the Hard Way: The Nex...
-536        【预订】Head First Python: A Brain-Friendly Guide
-537                          【预订】I'm a Python Programmer
-538     【预订】Beginning Python: From Novice to Professi...
-539                                 【预订】Dive Into Python
+535        【预订】Head First Python: A Brain-Friendly Guide
+536                          【预订】I'm a Python Programmer
+537     【预订】Beginning Python: From Novice to Professi...
+538                                 【预订】Dive Into Python
+539                【预订】Learning Python with Raspberry Pi
 Name: 书籍名称, Length: 540, dtype: object

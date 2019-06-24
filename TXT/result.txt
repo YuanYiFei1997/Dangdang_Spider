@@ -29,14 +29,14 @@
 /x 28/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 科学计算/n (/x 第/m 2/m 版/n )/x 
 /x 29/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Python/eng 自然语言/l 处理/v 
 /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x .../m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 
-/x 510/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Hadoop/eng 数据分析/l 
-/x 511/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x NLTK/eng 基础教程/n  /x 用/p NLTK/eng 和/c Python/eng 库/nr 构建/v 机器/n 学习/v 应用/v 
-/x 512/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 高等院校/l 计算机教育/l “/x 十三/m 五/m ”/x 应用型/n 规划/n 教材/n ：/x Python/eng 程序设计/n 应用/v 教程/n 
-/x 513/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 爱/v 上/f Raspberry/eng  /x Pi/eng  /x 第/m 2/m 版/n  /x 树莓/n 派/v 编程/n 快速/d 入门/ns 手册/n 
-/x 514/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 数据分析/l 技术/n -/x -/x Python/eng 数据分析/l 项目/n 化/n 教程/n 
-/x 515/m  /x  /x  /x  /x  /x Greedy/eng  /x Python/eng  /x (/x Ready/eng  /x to/eng  /x Read/eng ,/x  /x Level/eng  /x 1/x )/x  /x (/x by/eng  /x Er/eng .../m 
-/x 516/m  /x  /x  /x  /x  /x  /x  /x  /x  /x 一站式/b 学/n Python/eng 从/p 入门/ns 到/v 精通/a （/x 跟/p 老/a 齐学/nr Python/eng  /x 基于/p Python/eng  /x 3/x  /x 当/p 当/t 独家/n ）/x 
-/x 517/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Python/eng  /x for/eng  /x Kids/eng :/x  /x A/x  /x Playful/eng  /x Introduction/eng  /x t/eng .../m 
+/x 510/m  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x A/x  /x Python/eng  /x Primer/eng  /x for/eng  /x Arcgis/eng (/x r/x )/x :/x  /x Workbook/eng  /x III/eng 
+/x 511/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x Hadoop/eng 数据分析/l 
+/x 512/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x NLTK/eng 基础教程/n  /x 用/p NLTK/eng 和/c Python/eng 库/nr 构建/v 机器/n 学习/v 应用/v 
+/x 513/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 高等院校/l 计算机教育/l “/x 十三/m 五/m ”/x 应用型/n 规划/n 教材/n ：/x Python/eng 程序设计/n 应用/v 教程/n 
+/x 514/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 爱/v 上/f Raspberry/eng  /x Pi/eng  /x 第/m 2/m 版/n  /x 树莓/n 派/v 编程/n 快速/d 入门/ns 手册/n 
+/x 515/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 数据分析/l 技术/n -/x -/x Python/eng 数据分析/l 项目/n 化/n 教程/n 
+/x 516/m  /x  /x  /x  /x  /x Greedy/eng  /x Python/eng  /x (/x Ready/eng  /x to/eng  /x Read/eng ,/x  /x Level/eng  /x 1/x )/x  /x (/x by/eng  /x Er/eng .../m 
+/x 517/m  /x  /x  /x  /x  /x  /x  /x  /x  /x 一站式/b 学/n Python/eng 从/p 入门/ns 到/v 精通/a （/x 跟/p 老/a 齐学/nr Python/eng  /x 基于/p Python/eng  /x 3/x  /x 当/p 当/t 独家/n ）/x 
 /x 518/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Pro/eng  /x Python/eng 
 /x 519/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x The/eng  /x Python/eng  /x Standard/eng  /x Library/eng  /x by/eng  /x Example/eng 
 /x 520/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Python/eng  /x on/eng  /x Panola/eng 
@@ -54,9 +54,9 @@
 /x 532/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Fluent/eng  /x Python/eng :/x  /x Clear/eng ,/x  /x Concise/eng ,/x  /x and/eng  /x Effect/eng .../m 
 /x 533/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Dive/eng  /x Into/eng  /x Python/eng  /x 3/x 
 /x 534/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Effective/eng  /x Python/eng :/x  /x 59/m  /x Specific/eng  /x Ways/eng  /x to/eng  /x Wri/eng .../m 
-/x 535/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Learn/eng  /x More/eng  /x Python/eng  /x 3/x  /x the/eng  /x Hard/eng  /x Way/eng :/x  /x The/eng  /x Nex/eng .../m 
-/x 536/m  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Head/eng  /x First/eng  /x Python/eng :/x  /x A/x  /x Brain/eng -/x Friendly/eng  /x Guide/eng 
-/x 537/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x I/x '/x m/x  /x a/x  /x Python/eng  /x Programmer/eng 
-/x 538/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Beginning/eng  /x Python/eng :/x  /x From/eng  /x Novice/eng  /x to/eng  /x Professi/eng .../m 
-/x 539/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Dive/eng  /x Into/eng  /x Python/eng 
+/x 535/m  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Head/eng  /x First/eng  /x Python/eng :/x  /x A/x  /x Brain/eng -/x Friendly/eng  /x Guide/eng 
+/x 536/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x I/x '/x m/x  /x a/x  /x Python/eng  /x Programmer/eng 
+/x 537/m  /x  /x  /x  /x  /x 【/x 预订/v 】/x Beginning/eng  /x Python/eng :/x  /x From/eng  /x Novice/eng  /x to/eng  /x Professi/eng .../m 
+/x 538/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Dive/eng  /x Into/eng  /x Python/eng 
+/x 539/m  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x  /x 【/x 预订/v 】/x Learning/eng  /x Python/eng  /x with/eng  /x Raspberry/eng  /x Pi/eng 
 /x Name/eng :/x  /x 书籍/n 名称/n ,/x  /x Length/eng :/x  /x 540/m ,/x  /x dtype/eng :/x  /x object/eng 
