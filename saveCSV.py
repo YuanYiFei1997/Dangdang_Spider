@@ -13,7 +13,7 @@ def saveAsCSV(bookname, now_price, cbs, comnumber, link, imglink):
                  "图片链接": imglink}
         data = pandas.DataFrame(merge)
         string = input("请输入文件名")
-        filepath = 'D:\\'+string+'.csv'
+        filepath = string+'.csv'
         filename = filepath
         try:
             data.to_csv(filepath, encoding='utf_8_sig')

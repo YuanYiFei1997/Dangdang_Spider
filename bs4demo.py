@@ -27,7 +27,7 @@ def getHtmlText(url, key, pageNum):
 
 
 def main():
-    key = "请输入想要搜索书籍的关键字\n"
+    key = input("请输入想要搜索书籍的关键字\n")
     url = 'http://search.dangdang.com/?'
     pageNum = 10
     for i in range(pageNum):
